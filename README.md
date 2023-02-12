@@ -1,2 +1,2 @@
-# more-or-less-less-is-more
+# More or Less - Less is More
 Simple button game in Java using GUI
